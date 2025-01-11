@@ -14,6 +14,6 @@ CVPR：
 <div style="display: flex; justify-content: space-between;"> <img src="src\CVPR2.png" width="60%">    </div>
 <div style="display: flex; justify-content: space-between;"><img src="src\CVPR3.png" width="30%">   </div> </br>
 
-Elsevier:
+Elsevier(neurocomputing):
 <div style="display: flex; justify-content: space-between;">     <img src="src\Elsevier.png" width="30%">  </div> </br>
 
