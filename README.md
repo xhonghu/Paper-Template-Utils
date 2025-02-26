@@ -17,3 +17,6 @@ CVPR：
 Elsevier(neurocomputing):
 <div style="display: flex; justify-content: space-between;">     <img src="src\Elsevier.png" width="30%">  </div> </br>
 
+IEEE Trans:
+<div style="display: flex; justify-content: space-between;">     <img src="src\IEEE Trans.png" width="30%">  </div> </br>
+
